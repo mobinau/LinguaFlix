@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./Screenshot_20261005-110030" width="200">
-  <img src="./Screenshot_20261005-110022">
-  <img src="./Screenshot_20261005-110044" width="200">
-  <img src="./Screenshot_20261005-110040" width="200">
+  <img src="Screenshot_20261005-110030" width="200">
+  <img src="Screenshot_20261005-110022">
+  <img src="Screenshot_20261005-110044" width="200">
+  <img src="Screenshot_20261005-110040" width="200">
 </p>
 # LinguaFlix
 
