@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/mobinau/LinguaFlix/blob/c8976f974d9149c484a1ed86081d0db4b3a44847/Screenshot_20261005-110022.jpg" width="200">
-  <img src="Screenshot_20261005-110022">
+  <img src="https://github.com/mobinau/LinguaFlix/blob/b25606b6b538773130569d95fb4f11dd340f0f4d/Screenshot_20261005-110030.jpg">
   <img src="Screenshot_20261005-110044" width="200">
   <img src="Screenshot_20261005-110040" width="200">
 </p>
